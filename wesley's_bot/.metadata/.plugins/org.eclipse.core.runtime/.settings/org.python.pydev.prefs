@@ -1,0 +1,6 @@
+#Thu Dec 15 19:43:00 PST 2011
+COMMENT_STYLE=2
+com.aptana.db.ide-idUUID=df400edb-b3b2-498b-b4bc-3115104c1a8b
+eclipse.preferences.version=1
+INTERPRETER_PATH_NEW=Name\:python\:EndName\:Version2.7Executable\:C\:\\Python27\\python.exe|C\:\\Users\\Wessur2\\Desktop\\progging\\eclipse\\plugins\\org.python.pydev_2.2.4.2011110216\\PySrc|C\:\\PYTHON27|C\:\\PYTHON27\\DLLs|C\:\\PYTHON27\\LIB|C\:\\PYTHON27\\LIB\\LIB-TK|C\:\\Windows\\system32\\python27.zip|C\:\\Python27\\lib\\plat-win|C\:\\Python27\\lib\\site-packages|C\:\\Python27\\lib\\site-packages\\wx-2.8-msw-ansi@$|Image|OpenGL|__builtin__|__main__|_ast|_bisect|_bytesio|_codecs|_codecs_cn|_codecs_hk|_codecs_iso2022|_codecs_jp|_codecs_kr|_codecs_tw|_collections|_csv|_fileio|_functools|_heapq|_hotshot|_io|_json|_locale|_lsprof|_md5|_multibytecodec|_random|_sha|_sha256|_sha512|_sre|_struct|_subprocess|_symtable|_warnings|_weakref|_winreg|array|audioop|binascii|cPickle|cStringIO|cmath|datetime|email|errno|exceptions|future_builtins|gc|hashlib|imageop|imp|itertools|marshal|math|mmap|msvcrt|nt|numpy|operator|os|os.path|parser|pytest|scipy|signal|socket|strop|sys|thread|time|wx|wxPython|xxsubtype|zipimport|zlib&&&&&
+COMMENT_COLOR=64,128,128
